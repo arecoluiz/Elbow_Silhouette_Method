@@ -1,2 +1,3 @@
-# Assignment_19
-Clustering e Regressão
+# Clustering e Regressão
+Utilizando Silhouette method and Gaussian Mixture
+'Assignment_19'
